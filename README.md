@@ -1,4 +1,4 @@
-# EDA-on-Retail-Data-with-Python
+# Customer-Purchase-Behaviour-Analysis-using-Python-and-Exploratory-Data-Analysis
 
 ## Project Overview
 
